@@ -1,0 +1,747 @@
+{
+    "toothbrush": [
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/329892/sensodyne-sensitive-toothbrush-soft-2-1671741326.jpg",
+            "productName": "Sensodyne Sensitive Toothbrush (Soft)",
+            "salePrice": 50.10,
+            "MRP": "₹60.00",
+            "discountPercent": "16% OFF",
+            "id": 1
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/I04900/sensodyne-toothbrush-sensitive-toothbrush-with-soft-rounded-bristles-3-pieces-buy-2-get-1-free-6.1-1671741572.jpg",
+            "productName": "Sensodyne Toothbrush: Sensitive Toothbru...",
+            "salePrice": 100.80,
+            "MRP": "₹120.00",
+            "discountPercent": "16% OFF",
+            "id": 2
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/G74500/beco-bamboo-toothbrush-2-1644240019.jpg",
+            "productName": "Beco Bamboo Toothbrush",
+            "salePrice": 78.30,
+            "MRP": "₹90.00",
+            "discountPercent": "13% OFF",
+            "id": 3
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/D20821/colgate-gentle-enamel-ultra-soft-toothbrush-4-pcs-1-1654165571.jpg",
+            "productName": "Colgate Gentle Enamel Ultra Soft Toothbr...",
+            "salePrice": 194.00,
+            "MRP": "₹240.00",
+            "discountPercent": "19% OFF",
+            "id": 4
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/B09693/oral-b-criss-cross-toothbrush-with-clove-extract-extra-soft-buy-2-get-2-free--2-1641789711.jpg",
+            "productName": "Oral-B Criss Cross Toothbrush With Clove...",
+            "salePrice": 180.50,
+            "MRP": "₹190.00",
+            "discountPercent": "5% OFF",
+            "id": 5
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/V40633/pigeon-training-toothbrush-lesson-3-green-en-2-1643956647.jpg",
+            "productName": "Pigeon Training Toothbrush - Lesson 3 Green (En)",
+            "salePrice": 159.90,
+            "MRP": "₹195.00",
+            "discountPercent": "18% OFF",
+            "id": 6
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/Y86133/oral-b-pro-2-2000-cross-action-toothbrush-electric-rechargeable-1-1641788670.jpg",
+            "productName": "Oral-B Pro 2 2000 Cross Action  Toothbru...",
+            "salePrice": 3737.00,
+            "MRP": "₹4199.00",
+            "discountPercent": "11% OFF",
+            "id": 7
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/K28937/oral-b-kids-electric-rechargeable-toothbrush-replacement-refills-featuring-star-wars-pack-of-2-1-1671742001.jpg",
+            "productName": "Oral-B Kids Electric Rechargeable Toothb...",
+            "salePrice": 571.20,
+            "MRP": "₹595.00",
+            "discountPercent": "4% OFF",
+            "id": 8
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/S17408/pigeon-training-toothbrush-lesson-3-blue-en-2-1671743433.jpg",
+            "productName": "Pigeon Training Toothbrush - Lesson 3 Blue (En)",
+            "salePrice": 159.50,
+            "MRP": "₹195.00",
+            "discountPercent": "18% OFF",
+            "id": 9
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/C17947/philips-sonicare-electrictoothbrush-galway-1100-series-2-minute-smart-timer-hx3641-11-2-1671744170.jpg",
+            "productName": "Philips Sonicare Electrictoothbrush - Ga...",
+            "salePrice": 1843.00,
+            "MRP": "₹2195.00",
+            "discountPercent": "16% OFF",
+            "id": 10
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/S76072/oral-b-kids-electric-rechargeable-toothbrush-featuring-star-wars-characters-1-1654233775.jpg",
+            "productName": "Oral-B Kids Electric Rechargeable Toothb...",
+            "salePrice": 1432.00,
+            "MRP": "₹1599.00",
+            "discountPercent": "11% OFF",
+            "id": 11
+        },
+        {
+            "image_src": "",
+            "productName": "Chicco Baby Toothbrush 3y-6y ( Color May Vary)",
+            "salePrice": 177.11,
+            "MRP": "₹199.00",
+            "discountPercent": "11% OFF",
+            "id": 12
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/P56493/pigeon-training-toothbrush-lesson-1-yellow-en-2-1671743454.jpg",
+            "productName": "Pigeon Training Toothbrush - Lesson 1 Yellow (En)",
+            "salePrice": "₹159.90",
+            "MRP": "₹195.00",
+            "discountPercent": "18% OFF",
+            "id": 13
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/Q17737/pigeon-training-toothbrush-lesson-3-pink-en-2-1671743453.jpg",
+            "productName": "Pigeon Training Toothbrush - Lesson 3 Pink (En)",
+            "salePrice": "₹159.90",
+            "MRP": "₹195.00",
+            "discountPercent": "18% OFF",
+            "id": 14
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/K48095/colgate-kids-batman-extra-soft-bristles-toothbrush-2-1641789103.jpg",
+            "productName": "Colgate Kid'S Batman Extra Soft Bristles...",
+            "salePrice": "₹533.11",
+            "MRP": "₹599.00",
+            "discountPercent": "11% OFF",
+            "id": 15
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/B44263/perfora-electric-toothbrush-with-2-modes-avocado-green-2-1671743758.jpg",
+            "productName": "Perfora Electric Toothbrush With 2 Modes...",
+            "salePrice": "₹1304.13",
+            "MRP": "₹1499.00",
+            "discountPercent": "13% OFF",
+            "id": 16
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/D17271/pigeon-training-toothbrush-lesson-123-set-mix-en-2-1671743429.jpg",
+            "productName": "Pigeon Training Toothbrush - Lesson 123 ...",
+            "salePrice": "₹389.50",
+            "MRP": "₹475.00",
+            "discountPercent": "18% OFF",
+            "id": 17
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/R85719/philips-sonicare-protective-clean-sonic-electric-rechargeable-toothbrush-hx6807-24-2-1671743965.jpg",
+            "productName": "Philips Sonicare Protective Clean Sonic ...",
+            "salePrice": "₹4675.50",
+            "MRP": "₹5195.00",
+            "discountPercent": "10% OFF",
+            "id": 18
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/K97358/perfora-electric-toothbrush-with-2-modes-charcoal-grey-2-1671743755.jpg",
+            "productName": "Perfora Electric Toothbrush With 2 Modes...",
+            "salePrice": "₹1304.13",
+            "MRP": "₹1499.00",
+            "discountPercent": "13% OFF",
+            "id": 19
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/Y24157/colgate-360-degree-whole-mouth-clean-toothbrush-buy-2-get-2-free-4-pcs-1-1637518805.jpg",
+            "productName": "Colgate 360 Degree Whole Mouth Clean Too...",
+            "salePrice": "₹162.00",
+            "MRP": "₹200.00",
+            "discountPercent": "19% OFF",
+            "id": 20
+        }
+    ],
+    "health-care": [
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-2-1671741223.jpg",
+            "productName": "Calcimax 500 Health Supplement Tablets (...",
+            "salePrice": "₹323.00",
+            "MRP": "₹380.00",
+            "discountPercent": "15% OFF",
+            "id": 1
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/281751/revital-h-men-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-60-capsules-2-1671741037.jpg",
+            "productName": "Revital H Men Multivitamin With Calcium ...",
+            "salePrice": "₹533.50",
+            "MRP": "₹550.00",
+            "discountPercent": "3% OFF",
+            "id": 2
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-2-1661760071.jpg",
+            "productName": "Everherb (By Pharmeasy) Ashwagandha - Im...",
+            "salePrice": "₹329.45",
+            "MRP": "₹599.00",
+            "discountPercent": "45% OFF",
+            "id": 3
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/D18575/pharmeasy-biotin-10000mcg-for-hair-skin-nails-bottle-of-60-2-1676757633.jpg",
+            "productName": "Pharmeasy Biotin 10000mcg - For Hair, Sk...",
+            "salePrice": "₹384.45",
+            "MRP": "₹699.00",
+            "discountPercent": "45% OFF",
+            "id": 4
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/N70299/everherb-by-pharmeasy-shilajit-500mg-natural-vigour-improvement-strength-stamina-for-men-bottle-of-60-2-1661760185.jpg",
+            "productName": "Everherb (By Pharmeasy) Shilajit 500mg -...",
+            "salePrice": "₹499.50",
+            "MRP": "₹999.00",
+            "discountPercent": "50% OFF",
+            "id": 5
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/270551/revital-h-men-multivitamin-with-zinc-ginseng-for-immunity-strong-bones-energy-10-capsules-1-1671740959.jpg",
+            "productName": "Revital H Men Multivitamin With Zinc & G...",
+            "salePrice": "₹96.80",
+            "MRP": "₹110.00",
+            "discountPercent": "12% OFF",
+            "id": 6
+        },
+        {
+            "image_src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "productName": "Pharmeasy Vitamin D3 - Supports Bone Hea...",
+            "salePrice": "₹356.95",
+            "MRP": "₹649.00",
+            "discountPercent": "45% OFF",
+            "id": 7
+        },
+        {
+            "image_src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "productName": "Everherb (By Pharmeasy) Moringa (Drum St...",
+            "salePrice": "₹269.55",
+            "MRP": "₹599.00",
+            "discountPercent": "55% OFF",
+            "id": 8
+        },
+        {
+            "image_src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "productName": "Coq 30mg Coenzyme Q10 Capsules, Nutraceu...",
+            "salePrice": "₹416.24",
+            "MRP": "₹433.58",
+            "discountPercent": "4% OFF",
+            "id": 9
+        },
+        {
+            "image_src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "productName": "Pharmeasy Glutathione - Promotes Healthy...",
+            "salePrice": "₹769.45",
+            "MRP": "₹1399.00",
+            "discountPercent": "45% OFF",
+            "id": 10
+        },
+        {
+            "image_src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "productName": "Pharmeasy Biotin Gummies - Pack Of 60",
+            "salePrice": "₹749.50",
+            "MRP": "₹1499.00",
+            "discountPercent": "50% OFF",
+            "id": 11
+        },
+        {
+            "image_src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "productName": "Mankind Health Ok Multi Vitamin Multimin...",
+            "salePrice": "₹255.00",
+            "MRP": "₹300.00",
+            "discountPercent": "15% OFF",
+            "id": 12
+        }
+    ],
+    "disposalBag": [
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/I48466/sirona-sanitary-and-diapers-disposal-bag-75-bags-1-1654250893.jpg",
+            "productName": "Sirona Sanitary And Diapers Disposal Bag - 75 Bags",
+            "salePrice": 239.00,
+            "MRP": "₹249.00",
+            "discountPercent": "4% OFF",
+            "id": 1
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/I48460/sirona-sanitary-and-diapers-disposal-bag-15-bags-2-1641788312.jpg",
+            "productName": "Sirona Sanitary And Diapers Disposal Bag - 15 Bags",
+            "salePrice": 69.00,
+            "MRP": "₹75.00",
+            "discountPercent": "8% OFF",
+            "id": 2
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/I48462/sirona-sanitary-and-diapers-disposal-bag-packet-of-45-s-1-1641788312.jpg",
+            "productName": "Sirona Sanitary And Diapers Disposal Bag...",
+            "salePrice": 200.90,
+            "MRP": "₹245.00",
+            "discountPercent": "18% OFF",
+            "id": 3
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/I48463/bodyguard-baby-diapers-and-sanitary-disposal-bag-15-bags-2-1641788429.jpg",
+            "productName": "Bodyguard - Baby Diapers And Sanitary Di...",
+            "salePrice": 82.18,
+            "MRP": "₹99.00",
+            "discountPercent": "18% OFF",
+            "id": 4
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/I48479/sirona-adult-diaper-disposal-bag-for-discreet-tamper-proof-disposal-of-diapers-pack-of-30-2-1654256434.jpg",
+            "productName": "Sirona Adult Diaper Disposal Bag For Dis...",
+            "salePrice": 327.80,
+            "MRP": "₹399.00",
+            "discountPercent": "18% OFF",
+            "id": 5
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/I48478/sirona-adult-diaper-disposal-bag-for-discreet-tamper-proof-disposal-of-diapers-pack-of-10-2-1654256496.jpg",
+            "productName": "Sirona Adult Diaper Disposal Bag For Dis...",
+            "salePrice": 143.00,
+            "MRP": "₹175.00",
+            "discountPercent": "18% OFF",
+            "id": 6
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/T71899/greenhack-newspaper-bag-for-sanitary-and-garbage-disposal-pack-of-100-2-1647000616.jpg",
+            "productName": "Greenhack Newspaper Bag For Sanitary And...",
+            "salePrice": 332.50,
+            "MRP": "₹350.00",
+            "discountPercent": "5% OFF",
+            "id": 7
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/I48465/bodyguard-baby-diapers-and-sanitary-disposal-bag-75-bags-2-1648798283.jpg",
+            "productName": "Bodyguard - Baby Diapers And Sanitary Di...",
+            "salePrice": 327.00,
+            "MRP": "₹399.00",
+            "discountPercent": "18% OFF",
+            "id": 8
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/E18794/pee-safe-oxo-biodegradable-disposable-bags-pack-of-50-bags-2-1671741634.jpg",
+            "productName": "Pee Safe Oxo - Biodegradable Disposable ...",
+            "salePrice": 332.50,
+            "MRP": "₹350.00",
+            "discountPercent": "5% OFF",
+            "id": 9
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/I48464/bodyguard-baby-diapers-and-sanitary-disposal-bag-45-bags-2-1669711076.jpg",
+            "productName": "Bodyguard - Baby Diapers And Sanitary Di...",
+            "salePrice": 201.00,
+            "MRP": "₹245.00",
+            "discountPercent": "18% OFF",
+            "id": 10
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/I48495/sirona-disposal-bags-for-discreet-disposal-of-tampons-and-condoms-50-bags-2-1641788318.jpg",
+            "productName": "Sirona Disposal Bags For Discreet Dispos...",
+            "salePrice": 144.44,
+            "MRP": "₹149.00",
+            "discountPercent": "3% OFF",
+            "id": 11
+        }
+    ],
+    "forMen": [
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/I09432/neurobion-forte-tablet-30s-1-1669655036.jpg",
+            "productName": "Neurobion Forte Tablet 30'S",
+            "salePrice": 38.10,
+            "MRP": "42",
+            "discountPercent": "0.5% OFF",
+            "id": 1
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/071710/evion-400mg-strip-of-10-capsules-2-1671741393.jpg",
+            "productName": "Evion 400mg Strip Of 10 Capsules",
+            "salePrice": 34.10,
+            "MRP": "₹35.90",
+            "discountPercent": "5% OFF",
+            "id": 2
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/T60720/pharmeasy-multivitamin-multimineral-immunity-booster-complete-nutrition-bottle-of-60-2-1675775391.jpg",
+            "productName": "Pharmeasy Multivitamin Multimineral - Im...",
+            "salePrice": 419.00,
+            "MRP": "₹699.00",
+            "discountPercent": "40% OFF",
+            "id": 3
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/T70695/supradyn-daily-multivitamin-tablet-with-essential-zinc-vitamins-for-daily-immunity-energy-2-1677155713.jpg",
+            "productName": "Supradyn Daily Multivitamin Tablet With ...",
+            "salePrice": 49.00,
+            "MRP": "₹54.90",
+            "discountPercent": "10% OFF",
+            "id": 4
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/207833/calcimax-forte-plus-strip-of-30-tablets-2-1671741016.jpg",
+            "productName": "Calcimax Forte Plus Strip Of 30 Tablets",
+            "salePrice": 242.00,
+            "MRP": "₹285",
+            "discountPercent": "15% OFF",
+            "id": 5
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-2-1671741220.jpg",
+            "productName": "Becozym C Forte ( Vitamin B Complex + Bi...",
+            "salePrice": 25.11,
+            "MRP": "₹27.40",
+            "discountPercent": "8% OFF",
+            "id": 6
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/E79162/liveasy-wellness-multivitamin-multimineral-immunity-booster-complete-nutrition-bottle-of-60-2-1661760039.jpg",
+            "productName": "Liveasy Wellness Multivitamin Multiminer...",
+            "salePrice": 454.35,
+            "MRP": "₹699.00",
+            "discountPercent": "35% OFF",
+            "id": 7
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-2-1671741223.jpg",
+            "productName": "Calcimax 500 Health Supplement Tablets (...",
+            "salePrice": 323.00,
+            "MRP": "₹380.00",
+            "discountPercent": "15% OFF",
+            "id": 8
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/071715/evion-600mg-strip-of-10-capsules-1-1671741257.jpg",
+            "productName": "Evion 600mg Strip Of 10 Capsules",
+            "salePrice": 46.35,
+            "MRP": "₹51.70",
+            "discountPercent": "10% OFF",
+            "id": 9
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/T22634/liveasy-wellness-calcium-magnesium-vitamin-d3-zinc-bones-dental-health-bottle-60-tabs-2-1661760061.jpg",
+            "productName": "Liveasy Wellness Calcium Magnesium Vitam...",
+            "salePrice": 479.00,
+            "MRP": "₹599.00",
+            "discountPercent": "20% OFF",
+            "id": 10
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/281751/revital-h-men-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-60-capsules-2-1671741037.jpg",
+            "productName": "Revital H Men Multivitamin With Calcium ...",
+            "salePrice": 484.00,
+            "MRP": "₹550.00",
+            "discountPercent": "12% OFF",
+            "id": 11
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/205923/maxirich-multivitamin-minerals-sofgels-strip-of-10-2-1671740732.jpg",
+            "productName": "Maxirich Multivitamin & Minerals Sofgels...",
+            "salePrice": 101.00,
+            "MRP": "₹119.00",
+            "discountPercent": "15% OFF",
+            "id": 12
+        }
+    ],
+    "acidity": [
+        {
+            "image_src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "productName": "Carbamide Forte Methylcobalamin Vitamin ...",
+            "salePrice": 637.50,
+            "MRP": "₹750.00",
+            "discountPercent": "15% OFF",
+            "id": 1
+        },
+        {
+            "image_src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "productName": "Carbamide Forte Salmon Fish Oil 1000 Mg ...",
+            "salePrice": 765.00,
+            "MRP": "₹900.00",
+            "discountPercent": "15% OFF",
+            "id": 2
+        },
+        {
+            "image_src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "productName": "Carbamide Forte Biotin 10000mcg 60 Tablets",
+            "salePrice": 425.00,
+            "MRP": "₹500.00",
+            "discountPercent": "15% OFF",
+            "id": 3
+        },
+        {
+            "image_src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "productName": "Everherb (By Pharmeasy) Jointcare - Blen...",
+            "salePrice": 519.00,
+            "MRP": "₹999.00",
+            "discountPercent": "48% OFF",
+            "id": 4
+        },
+        {
+            "image_src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "productName": "Liveasy Ortho Care Elbow Support - Medium",
+            "salePrice": 143.65,
+            "MRP": "₹169.00",
+            "discountPercent": "15% OFF",
+            "id": 5
+        },
+        {
+            "image_src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "productName": "Swisse Ultivite Men'S Multivitamin Suppl...",
+            "salePrice":1620.18,
+            "MRP": "₹2349.00",
+            "discountPercent": "31% OFF",
+            "id": 6
+        },
+        {
+            "image_src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "productName": "Liveasy Ortho Care Ankle Support - Preve...",
+            "salePrice": 254.15,
+            "MRP": "₹299.00",
+            "discountPercent": "15% OFF",
+            "id": 7
+        },
+        {
+            "image_src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "productName": "Oziva Daily Mens Multi Tablets 60 Tablets",
+            "salePrice":349.00,
+            "MRP": "₹499.00",
+            "discountPercent": "30% OFF",
+            "id": 8
+        }
+    ],
+    "babyHealthcare": [
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/P26899/ultra-d3-drops-vitamin-d3-for-infants-vitamin-drops-bottle-of-15-ml-2-1654250369.jpg",
+            "productName": "Ultra D3 Drops - Vitamin D3 For Infants ...",
+            "salePrice": 33.24,
+            "MRP": "₹39.14",
+            "discountPercent": "15% OFF",
+            "id": 1
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/329404/depura-kids-nano-vitamin-d3-drops-for-kids-400-ui-per-05-ml-dropper-for-appropriate-dosage-1-1671741049.jpg",
+            "productName": "Depura Kids Nano Vitamin D3 Drops For Ki...",
+            "salePrice": 185.00,
+            "MRP": "₹193.21",
+            "discountPercent": "4% OFF",
+            "id": 2
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/067886/enterogermina-probiotic-supplement-for-diarrhea-for-kids-adults-1-strips-4-capsules-each-1-1671741705.jpg",
+            "productName": "Enterogermina Probiotic Supplement For D...",
+            "salePrice": 163.80,
+            "MRP": "₹178.00",
+            "discountPercent": "8% OFF",
+            "id": 3
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/242053/seacod-cod-liver-oil-bottle-of-60-ml-2-1674538031.jpg",
+            "productName": "Seacod Cod Liver Oil Bottle Of 60 Ml",
+            "salePrice": 164.24,
+            "MRP": "₹212.00",
+            "discountPercent": "23% OFF",
+            "id": 4
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/G15726/mamaearth-natural-breathe-easy-wintergreen-eucalyptus-and-tulsi-vapour-rub-balm-container-of-50-ml-2-1632777426.jpg",
+            "productName": "Mamaearth Natural Breathe Easy Wintergre...",
+            "salePrice": 199.00,
+            "ProductCard_listPrice__tgySR": "",
+            "MRP": "",
+            "discountPercent": "",
+            "id": 5
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/Q38772/the-moms-co-natural-mosquito-repellent-100-ml-2-1641792585.jpg",
+            "productName": "The Moms Co. Natural Mosquito Repellent -100 Ml",
+            "salePrice": 247.00,
+            "MRP": "₹348.00",
+            "discountPercent": "29% OFF",
+            "id": 6
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/U42987/chicco-disinfectant-multipurpose-500-ml-2-1641790831.jpg",
+            "productName": "Chicco Disinfectant Multipurpose 500 Ml",
+            "salePrice": 260.13,
+            "MRP": "₹299.00",
+            "discountPercent": "13% OFF",
+            "id": 7
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/A30875/pigeon-nose-cleaner-blister-pack-1-1671741631.jpg",
+            "productName": "Pigeon Nose Cleaner Blister Pack",
+            "salePrice": 309.13,
+            "MRP": "₹319.00",
+            "discountPercent": "3% OFF",
+            "id": 8
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/E70469/mamaearth-after-bite-lavander-and-witchhazel-anti-mosquito-roll-on-tube-of-40-ml-2-1641788584.jpg",
+            "productName": "Mamaearth After Bite Lavander And Witchh...",
+            "salePrice": 249.00,
+            "MRP": "MRP ₹299.00",
+            "discountPercent": "12% OFF",
+            "id": 9
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/J85031/beebaby-medicine-dispenser-with-soft-silicone-nipple-for-newborn-blue-2-1671742713.jpg",
+            "productName": "Beebaby Medicine Dispenser With Soft Sil...",
+            "salePrice": 129.00,
+            "MRP": "MRP ₹139.00",
+            "discountPercent": "5% OFF",
+            "id": 10
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/D34523/mee-mee-mild-baby-liquid-laundry-detergent-300ml-2-1641793258.jpg",
+            "productName": "Mee Mee Mild Baby Liquid Laundry Detergent - 300ml",
+            "salePrice": 299.00,
+            "MRP": "MRP ₹329.00",
+            "discountPercent": "10% OFF",
+            "id": 11
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/Q99077/tiffy-toffee-baby-laundry-detergent-with-in-built-germicide-and-softener-200ml-2-1671742655.jpg",
+            "productName": "Tiffy & Toffee Baby Laundry Detergent Wi...",
+            "salePrice": 159.87,
+            "MRP": "₹199.00",
+            "discountPercent": "20% OFF",
+            "id": 12
+        }
+    ],
+    "massageOil": [
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products/090265/himalaya-stress-relief-massage-oil-200-ml-2-1641537306.jpg",
+            "productName": "Himalaya Stress Relief Massage Oil 200 Ml",
+            "salePrice": 122.20,
+            "MRP": "₹130.00",
+            "discountPercent": "6% OFF",
+            "id": 1
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/C23212/biotique-bio-carrot-seed-anti-aging-after-bath-body-oil-120-ml-2-1641791024.jpg",
+            "productName": "Biotique Bio Carrot Seed Anti Aging Afte...",
+            "salePrice": 129.30,
+            "MRP": "₹135.00",
+            "discountPercent": "4% OFF",
+            "id": 2
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/K40120/everherb-by-pharmeasy-pain-relief-oil-blend-of-8-powerful-herbal-ingredients-100-ml-1-1654165875.jpg",
+            "productName": "Everherb (By Pharmeasy) Pain Relief Oil ...",
+            "salePrice": 219.45,
+            "MRP": "₹399.00",
+            "discountPercent": "45% OFF",
+            "id": 3
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/L13639/baidyanath-body-oli-oil-bottle-of-500-ml-2-1654250812.jpg",
+            "productName": "Baidyanath Body Oli Oil Bottle Of 500 Ml",
+            "salePrice": 199.52,
+            "MRP": "₹240.00",
+            "discountPercent": "17% OFF",
+            "id": 4
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/I42252/kerala-ayurveda-winsoria-body-oil-bottle-of-100-ml-1-1669711038.jpg",
+            "productName": "Kerala Ayurveda Winsoria Body Oil Bottle Of 100 Ml",
+            "salePrice": 170.00,
+            "MRP": "₹190.00",
+            "discountPercent": "10% OFF",
+            "id": 5
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/B35961/mcaffeine-naked-raw-coffee-body-polishing-oil100-ml-2-1641792734.jpg",
+            "productName": "Mcaffeine Naked & Raw Coffee Body Polish...",
+            "salePrice": 356,
+            "MRP": "₹445.00",
+            "discountPercent": "20% OFF",
+            "id": 6
+        }
+    ],
+    "covidKits": [
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/O70942/coviself-covid-self-test-kit-2-1671742428.jpg",
+            "productName": "Coviself Covid Self Test Kit",
+            "salePrice": 212.50,
+            "MRP": "₹250.00",
+            "discountPercent": "15% OFF",
+            "id": 1
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/Z70690/covifind-covid-19-rapid-antigen-self-test-by-meril-easy-self-test-ai-powered-result-in-15-min-2-1671742572.jpg",
+            "productName": "Covifind Covid-19 Rapid Antigen Self Tes...",
+            "salePrice":240.00,
+            "MRP": "₹250.00",
+            "discountPercent": "4% OFF",
+            "id": 2
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/G16601/covifind-covid-19-rapid-antigen-self-test-accurate-ai-powered-fast-result-in-15-min-pack-of-2-2-1632784140.jpg",
+            "productName": "Covifind Covid-19 Rapid Antigen Self Tes...",
+            "salePrice": 237.50,
+            "MRP": "₹250.00",
+            "discountPercent": "5% OFF",
+            "id": 3
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/T06467/covifind-covid-19-rapid-antigen-self-test-accurate-ai-powered-fast-result-in-15-min-pack-of-10-2-1632784545.jpg",
+            "productName": "Covifind Covid-19 Rapid Antigen Self Tes...",
+            "salePrice": 225.00,
+            "MRP": "₹250.00",
+            "discountPercent": "10% OFF",
+            "id": 4
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/H41401/covifind-covid-19-rapid-antigen-self-test-accurate-ai-powered-fast-result-in-15-min-pack-of-5-2-1671742715.jpg",
+            "productName": "Covifind Covid-19 Rapid Antigen Self Tes...",
+            "salePrice": 225.00,
+            "MRP": "₹250.00",
+            "discountPercent": "10% OFF",
+            "id": 5
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/B59941/roche-covid-19-at-home-test-1unit-kit-1s-2-1671743611.jpg",
+            "productName": "Roche Covid-19 At Home Test (1unit/ Kit) - 1'S",
+            "MRP": " ₹275.00",
+            "salePrice": 260.00,
+            "discountPercent": "11% OFF",
+            "id": 6
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/O70942/coviself-covid-self-test-kit-2-1671742428.jpg",
+            "productName": "Panbio Covid Antigen Self Test 1 Test Ki...",
+            "MRP": " ₹325.00",
+            "salePrice": 320,
+            "discountPercent": "2% OFF",
+            "id": 7
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/H41401/covifind-covid-19-rapid-antigen-self-test-accurate-ai-powered-fast-result-in-15-min-pack-of-5-2-1671742715.jpg",
+            "productName": "Roche Covid-19 At Home Test (1unit/ Kit)...",
+            "MRP": " ₹1100.00",
+            "salePrice": 1050.00,
+            "discountPercent": "20% OFF",
+            "id": 8
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/O70942/coviself-covid-self-test-kit-2-1671742428.jpg",
+            "productName": "Roche Covid-19 At Home Test (1unit/ Kit)...",
+            "MRP": " ₹550.00",
+            "salePrice": 540.00,
+            "discountPercent": "5% OFF",
+            "id": 9
+        },
+        {
+            "image_src": "https://cdn01.pharmeasy.in/dam/products_otc/O70942/coviself-covid-self-test-kit-2-1671742428.jpg",
+            "productName": "Panbio Covid Antigen Self Test - 4 Test ...",
+            "MRP": " ₹1300.00",
+            "salePrice": 1280.00,
+            "discountPercent": "10% OFF",
+            "id": 10
+        }
+    ]
+}
